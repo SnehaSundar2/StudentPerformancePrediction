@@ -1,0 +1,10 @@
+student,course,previous_score,internal_score,attendance_pct,study_hours,assignments_pct,sleep_hours,screen_hours,tutoring,internet,parent_education
+Asha,Science,78,74,92,16,95,7.5,2,no,yes,Graduate
+Bala,Commerce,55,48,66,5,60,6,6,no,yes,School
+Charu,Arts,68,70,85,12,80,7,3,yes,yes,Postgraduate
+Dev,Science,35,30,52,3,30,5,7,no,no,School
+Esha,Medicine,70,65,80,10,75,7,3,no,yes,Graduate
+Farid,Commerce,62,58,150,9,70,7,3,no,yes,Graduate
+Gita,Arts,60,60,80,59,75,7,3,yes,yes,Graduate
+Hari,Science,88,91,97,25,100,7.5,1,yes,yes,Postgraduate
+Ishan,Science,60,abc,80,10,75,7,3,no,yes,Graduate
